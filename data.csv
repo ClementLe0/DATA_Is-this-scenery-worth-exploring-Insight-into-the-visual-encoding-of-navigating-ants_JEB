@@ -1,0 +1,558 @@
+file_name;Ant;Test_order;Visual condition;Power spectrum frequency;Power spectrum magnitude;mean angular velocity (°/s);Mean forward velocity (m/s)
+expe_01_ant_01_outbound_1_Open_loop_pano.csv;ant_01;1;Open_loop_pano;0.1625;77.99411103;40.76008224;0.047819763
+expe_01_ant_01_outbound_2_W.csv;ant_01;2;White;0.225;162.3766642;53.16608888;0.065312316
+expe_01_ant_01_outbound_3_Closed_loop_pano.csv;ant_01;3;Closed_loop_pano;0.38125;244.2637817;56.38657752;0.04818232
+expe_01_ant_02_outbound_1_W.csv;ant_02;1;White;NA;NA;5.950502775;0.002945878
+expe_01_ant_02_outbound_2_Closed_loop_pano.csv;ant_02;2;Closed_loop_pano;0.2875;227.1003685;43.28189269;0.033164192
+expe_01_ant_02_outbound_3_Open_loop_pano.csv;ant_02;3;Open_loop_pano;0.1875;125.9290256;28.16684852;0.030137588
+expe_01_ant_03_outbound_1_Closed_loop_pano.csv;ant_03;1;Closed_loop_pano;0.44375;158.043172;53.12232395;0.052665655
+expe_01_ant_03_outbound_2_Open_loop_pano.csv;ant_03;2;Open_loop_pano;0.29375;209.1107779;58.72980054;0.052492091
+expe_01_ant_03_outbound_3_W.csv;ant_03;3;White;0.10625;94.31767859;56.0817371;0.044190018
+expe_01_ant_04_outbound_1_Open_loop_pano.csv;ant_04;1;Open_loop_pano;0.31875;84.71739006;42.22672331;0.060208877
+expe_01_ant_04_outbound_2_Closed_loop_pano.csv;ant_04;2;Closed_loop_pano;0.4;199.718991;47.8775746;0.059407442
+expe_01_ant_04_outbound_3_W.csv;ant_04;3;White;0.3375;107.5523254;54.81535734;0.059617134
+expe_01_ant_05_outbound_1_Closed_loop_pano.csv;ant_05;1;Closed_loop_pano;0.18125;107.6579285;37.61007795;0.065618076
+expe_01_ant_05_outbound_2_W.csv;ant_05;2;White;0.3125;107.7853645;52.11372471;0.048586941
+expe_01_ant_05_outbound_3_Open_loop_pano.csv;ant_05;3;Open_loop_pano;0.3875;386.7670833;49.08320956;0.067768425
+expe_01_ant_06_outbound_1_W.csv;ant_06;1;White;0.1875;224.6595807;56.3998591;0.055263711
+expe_01_ant_06_outbound_2_Open_loop_pano.csv;ant_06;2;Open_loop_pano;0.21875;190.807815;59.48437086;0.062446261
+expe_01_ant_06_outbound_3_Closed_loop_pano.csv;ant_06;3;Closed_loop_pano;0.35;212.4261858;53.23878037;0.060794135
+expe_01_ant_07_outbound_1_Open_loop_pano.csv;ant_07;1;Open_loop_pano;0.3;161.3111621;49.27070748;0.043610864
+expe_01_ant_07_outbound_2_W.csv;ant_07;2;White;0.34375;98.94733135;62.52649391;0.04004549
+expe_01_ant_07_outbound_3_Closed_loop_pano.csv;ant_07;3;Closed_loop_pano;0.41875;131.1563869;61.13541898;0.047710888
+expe_01_ant_08_outbound_1_W.csv;ant_08;1;White;0.06875;132.1314988;33.58957679;0.037936573
+expe_01_ant_08_outbound_2_Closed_loop_pano.csv;ant_08;2;Closed_loop_pano;0.3375;141.4586229;50.84507203;0.066330597
+expe_01_ant_08_outbound_3_Open_loop_pano.csv;ant_08;3;Open_loop_pano;0.2875;128.4044806;55.58187471;0.063948937
+expe_01_ant_09_outbound_1_Closed_loop_pano.csv;ant_09;1;Closed_loop_pano;0.3875;287.7806974;54.50786529;0.066386147
+expe_01_ant_09_outbound_2_Open_loop_pano.csv;ant_09;2;Open_loop_pano;0.3625;231.8510576;61.38812411;0.051889123
+expe_01_ant_09_outbound_3_W.csv;ant_09;3;White;0.41875;85.69455861;56.90434528;0.055276582
+expe_01_ant_10_outbound_1_Open_loop_pano.csv;ant_10;1;Open_loop_pano;0.45;79.77209702;36.47811087;0.035872441
+expe_01_ant_10_outbound_2_Closed_loop_pano.csv;ant_10;2;Closed_loop_pano;0.3625;148.4419252;37.27003314;0.047031654
+expe_01_ant_10_outbound_3_W.csv;ant_10;3;White;0.2625;102.7314781;39.1321461;0.049451532
+expe_01_ant_11_outbound_1_Closed_loop_pano.csv;ant_11;1;Closed_loop_pano;0.5375;78.25534306;43.77810482;0.04436745
+expe_01_ant_11_outbound_2_W.csv;ant_11;2;White;0.13125;132.3470331;54.40367711;0.057792362
+expe_01_ant_11_outbound_3_Open_loop_pano.csv;ant_11;3;Open_loop_pano;0.29375;164.8202528;56.53863316;0.048402835
+expe_01_ant_12_outbound_1_W.csv;ant_12;1;White;0.2875;123.4918365;48.43870378;0.038759532
+expe_01_ant_12_outbound_2_Open_loop_pano.csv;ant_12;2;Open_loop_pano;0.41875;138.5885714;44.80749239;0.044759375
+expe_01_ant_12_outbound_3_Closed_loop_pano.csv;ant_12;3;Closed_loop_pano;0.35625;139.0627979;51.81909876;0.043917969
+expe_01_ant_13_outbound_1_W.csv;ant_13;1;White;0.10625;154.0758409;40.1229664;0.033253052
+expe_01_ant_13_outbound_2_Closed_loop_pano.csv;ant_13;2;Closed_loop_pano;0.36875;250.6365433;68.94062324;0.043363875
+expe_01_ant_13_outbound_3_Open_loop_pano.csv;ant_13;3;Open_loop_pano;0.3;135.2851747;59.0278911;0.047475714
+expe_01_ant_14_outbound_1_Closed_loop_pano.csv;ant_14;1;Closed_loop_pano;0.34375;119.0336872;46.62538371;0.039361966
+expe_01_ant_14_outbound_2_W.csv;ant_14;2;White;0.40625;157.1353606;52.55449467;0.032426026
+expe_01_ant_14_outbound_3_Open_loop_pano.csv;ant_14;3;Open_loop_pano;0.39375;127.106774;59.31830569;0.037961743
+expe_01_ant_15_outbound_1_Open_loop_pano.csv;ant_15;1;Open_loop_pano;0.30625;104.9125761;33.340593;0.071891586
+expe_01_ant_15_outbound_2_W.csv;ant_15;2;White;0.40625;160.9676592;51.88283588;0.047173703
+expe_01_ant_15_outbound_3_Closed_loop_pano.csv;ant_15;3;Closed_loop_pano;0.35;281.5240334;52.8680018;0.052653958
+expe_01_ant_16_outbound_1_W.csv;ant_16;1;White;0.2125;121.7803325;51.98791288;0.041064132
+expe_01_ant_16_outbound_2_Closed_loop_pano.csv;ant_16;2;Closed_loop_pano;0.29375;182.7282334;50.85542285;0.060613773
+expe_01_ant_16_outbound_3_Open_loop_pano.csv;ant_16;3;Open_loop_pano;0.2375;200.448132;68.14075645;0.055803873
+expe_01_ant_17_outbound_1_Closed_loop_pano.csv;ant_17;1;Closed_loop_pano;0.41875;118.444932;49.76942198;0.05662047
+expe_01_ant_17_outbound_2_Open_loop_pano.csv;ant_17;2;Open_loop_pano;0.3125;190.8359494;47.14405395;0.057604927
+expe_01_ant_17_outbound_3_W.csv;ant_17;3;White;0.29375;101.3063302;50.46468806;0.048999689
+expe_01_ant_18_outbound_1_Open_loop_pano.csv;ant_18;1;Open_loop_pano;0.35;218.044849;55.37267371;0.049483639
+expe_01_ant_18_outbound_2_Closed_loop_pano.csv;ant_18;2;Closed_loop_pano;0.41875;114.6156482;52.81516883;0.028054372
+expe_01_ant_18_outbound_3_W.csv;ant_18;3;White;0.39375;100.0067274;54.94211607;0.052339059
+expe_01_ant_19_outbound_1_Closed_loop_pano.csv;ant_19;1;Closed_loop_pano;0.19375;172.1053001;34.70597221;0.030501856
+expe_01_ant_20_outbound_1_W.csv;ant_20;1;White;0.23125;113.6924075;30.6051537;0.014100959
+expe_01_ant_21_outbound_1_Open_loop_pano.csv;ant_21;1;Open_loop_pano;0.43125;146.7829506;45.98296471;0.066102825
+expe_01_ant_21_outbound_2_W.csv;ant_21;2;White;0.11875;135.710468;19.78658676;0.008032872
+expe_01_ant_21_outbound_3_Closed_loop_pano.csv;ant_21;3;Closed_loop_pano;0.35625;126.9264263;46.03625201;0.065283326
+expe_01_ant_22_outbound_1_W.csv;ant_22;1;White;0.25625;98.66496779;49.35771838;0.047687425
+expe_01_ant_22_outbound_2_Closed_loop_pano.csv;ant_22;2;Closed_loop_pano;0.29375;130.4907672;33.45164285;0.072715753
+expe_01_ant_22_outbound_3_Open_loop_pano.csv;ant_22;3;Open_loop_pano;0.33125;156.1892315;41.00873717;0.056087981
+expe_01_ant_23_outbound_1_Closed_loop_pano.csv;ant_23;1;Closed_loop_pano;0.3125;226.0316641;39.51891808;0.041994215
+expe_01_ant_23_outbound_2_Open_loop_pano.csv;ant_23;2;Open_loop_pano;0.18125;197.3916731;42.82119445;0.051490114
+expe_01_ant_23_outbound_3_W.csv;ant_23;3;White;0.2125;147.7221367;52.02210922;0.060359831
+expe_01_ant_24_outbound_1_Open_loop_pano.csv;ant_24;1;Open_loop_pano;0.16875;177.8136755;52.78292822;0.060625085
+expe_01_ant_24_outbound_2_Closed_loop_pano.csv;ant_24;2;Closed_loop_pano;0.275;348.2999605;59.38771083;0.073603569
+expe_01_ant_24_outbound_3_W.csv;ant_24;3;White;0.25625;153.0035166;58.18263044;0.062684376
+expe_01_ant_25_outbound_1_Closed_loop_pano.csv;ant_25;1;Closed_loop_pano;0.425;110.5762096;37.35866888;0.042677611
+expe_01_ant_25_outbound_2_W.csv;ant_25;2;White;0.49375;105.1701591;45.1601464;0.03737059
+expe_01_ant_25_outbound_3_Open_loop_pano.csv;ant_25;3;Open_loop_pano;0.35625;152.8250716;48.21190064;0.042932721
+expe_01_ant_26_outbound_1_W.csv;ant_26;1;White;0.25625;192.0926802;47.10754947;0.055594575
+expe_01_ant_26_outbound_2_Open_loop_pano.csv;ant_26;2;Open_loop_pano;0.35;147.9059663;39.4569923;0.065699269
+expe_01_ant_26_outbound_3_Closed_loop_pano.csv;ant_26;3;Closed_loop_pano;0.35;221.534378;43.16167796;0.058025533
+expe_01_ant_27_outbound_1_Closed_loop_pano.csv;ant_27;1;Closed_loop_pano;0.21875;98.0483776;44.55248441;0.061032916
+expe_01_ant_27_outbound_2_W.csv;ant_27;2;White;0.36875;103.3109217;53.14118357;0.05210892
+expe_01_ant_27_outbound_3_Open_loop_pano.csv;ant_27;3;Open_loop_pano;0.2625;179.9379247;56.98231726;0.084427598
+expe_01_ant_28_outbound_1_W.csv;ant_28;1;W;0.075;90.48478754;48.27639607;0.043064541
+expe_01_ant_28_outbound_2_Open_loop_pano.csv;ant_28;2;Open_loop_pano;0.46875;117.1246326;46.269643;0.067869988
+expe_01_ant_28_outbound_3_Closed_loop_pano.csv;ant_28;3;Closed_loop_pano;0.3375;281.9618414;51.30171562;0.073509381
+expe_02_ant01__outbound_1_Flat.csv;ant01_;1;Flat;0.4375;119.9626675;57.21634401;0.029778822
+expe_02_ant01__outbound_2_W.csv;ant01_;2;White;0.29375;95.86741729;70.0733722;0.028575873
+expe_02_ant01__outbound_3_Open_loop_pano.csv;ant01_;3;Open_loop_pano;0.125;124.7110653;51.34463023;0.028066726
+expe_02_ant02__outbound_1_W.csv;ant02_;1;White;NA;NA;17.2052794;0.007026332
+expe_02_ant02__outbound_2_Open_loop_pano.csv;ant02_;2;Open_loop_pano;0.3625;95.23862551;38.00184973;0.026628735
+expe_02_ant02__outbound_3_Flat.csv;ant02_;3;Flat;NA;NA;7.715621711;0.003899364
+expe_02_ant03__outbound_1_Open_loop_pano.csv;ant03_;1;Open_loop_pano;0.39375;148.6898158;49.42556335;0.044479621
+expe_02_ant03__outbound_2_Flat.csv;ant03_;2;Flat;0.09375;110.9895118;60.97686415;0.028777489
+expe_02_ant03__outbound_3_W.csv;ant03_;3;White;0.35;198.5851472;50.97605318;0.032448012
+expe_02_ant04__outbound_1_Flat.csv;ant04_;1;Flat;0.20625;110.8294482;46.86015331;0.013000663
+expe_02_ant04__outbound_2_Open_loop_pano.csv;ant04_;2;Open_loop_pano;0.35625;163.5942342;46.60046329;0.039389813
+expe_02_ant04__outbound_3_W.csv;ant04_;3;White;0.34375;191.1793809;48.74819586;0.041608937
+expe_02_ant05__outbound_1_Open_loop_pano.csv;ant05_;1;Open_loop_pano;0.28125;147.7399136;44.21895961;0.04086121
+expe_02_ant05__outbound_2_W.csv;ant05_;2;White;0.26875;165.4859793;58.61912197;0.028793821
+expe_02_ant05__outbound_3_Flat.csv;ant05_;3;Flat;0.1125;129.950098;47.08621522;0.021881059
+expe_02_ant06__outbound_1_W.csv;ant06_;1;White;0.1;126.1188202;45.90860561;0.050607115
+expe_02_ant06__outbound_2_Flat.csv;ant06_;2;Flat;0.3625;118.4606894;54.33107701;0.046938094
+expe_02_ant06__outbound_3_Open_loop_pano.csv;ant06_;3;Open_loop_pano;0.28125;235.3043581;55.27378413;0.058905512
+expe_02_ant07__outbound_1_Flat.csv;ant07_;1;Flat;0.44375;122.226466;38.45421918;0.027292014
+expe_02_ant07__outbound_2_W.csv;ant07_;2;White;0.075;172.0818314;37.32973505;0.026810668
+expe_02_ant07__outbound_3_Open_loop_pano.csv;ant07_;3;Open_loop_pano;0.4125;147.7795479;41.35223661;0.053076294
+expe_02_ant08__outbound_1_W.csv;ant08_;1;White;0.41875;149.229813;47.89662844;0.049083719
+expe_02_ant08__outbound_2_Open_loop_pano.csv;ant08_;2;Open_loop_pano;0.15;109.4485109;52.59943654;0.021902027
+expe_02_ant09__outbound_1_Open_loop_pano.csv;ant09_;1;Open_loop_pano;0.2625;97.95714243;28.50497359;0.017738686
+expe_02_ant09__outbound_2_Flat.csv;ant09_;2;Flat;0.33125;119.488292;49.22515548;0.024316568
+expe_02_ant10__outbound_1_Flat.csv;ant10_;1;Flat;0.34375;111.9354119;47.29044674;0.030926271
+expe_02_ant10__outbound_2_Open_loop_pano.csv;ant10_;2;Open_loop_pano;0.3;125.3477858;45.17026115;0.033258336
+expe_02_ant10__outbound_3_W.csv;ant10_;3;White;0.3625;232.5327458;45.6502626;0.033742838
+expe_02_ant11__outbound_1_Open_loop_pano.csv;ant11_;1;Open_loop_pano;0.26875;221.1912848;53.77216948;0.047365508
+expe_02_ant11__outbound_2_W.csv;ant11_;2;White;0.3625;108.4921102;59.46529517;0.043673452
+expe_02_ant11__outbound_3_Flat.csv;ant11_;3;Flat;0.3;153.9331063;67.51135021;0.043799898
+expe_02_ant12__outbound_1_W.csv;ant12_;1;White;0.1875;136.5909228;54.33526321;0.030213793
+expe_02_ant13__outbound_1_W.csv;ant13_;1;White;0.1125;108.0799257;57.65307893;0.041199695
+expe_02_ant13__outbound_2_Open_loop_pano.csv;ant13_;2;Open_loop_pano;0.35625;184.2494141;64.98260576;0.043981523
+expe_02_ant13__outbound_3_Flat.csv;ant13_;3;Flat;0.2125;269.3431694;59.87626774;0.038954194
+expe_02_ant14__outbound_1_W.csv;ant14_;1;White;0.11875;96.45878903;64.4442087;0.051234236
+expe_02_ant14__outbound_2_Flat.csv;ant14_;2;Flat;0.2125;217.6596873;62.65431575;0.042648176
+expe_02_ant14__outbound_3_Open_loop_pano.csv;ant14_;3;Open_loop_pano;0.2375;317.4814473;62.70313326;0.049854265
+expe_02_ant15__outbound_1_Open_loop_pano.csv;ant15_;1;Open_loop_pano;0.38125;184.8849482;53.95313418;0.043181204
+expe_02_ant15__outbound_2_Flat.csv;ant15_;2;Flat;0.36875;130.3568111;58.7739195;0.034665591
+expe_02_ant15__outbound_3_W.csv;ant15_;3;White;0.29375;121.1787828;53.63021912;0.04247096
+expe_02_ant16__outbound_1_Flat.csv;ant16_;1;Flat;0.38125;156.9002675;50.87069637;0.030999204
+expe_02_ant16__outbound_2_W.csv;ant16_;2;White;0.20625;117.4825925;44.99372312;0.039595232
+expe_02_ant16__outbound_3_Open_loop_pano.csv;ant16_;3;Open_loop_pano;0.23125;196.5378235;48.48094391;0.041827987
+expe_02_ant17__outbound_1_W.csv;ant17_;1;W;0.325;119.4173134;46.55557257;0.048685689
+expe_02_ant17__outbound_2_Open_loop_pano.csv;ant17_;2;Open_loop_pano;0.4375;250.2588448;39.22208413;0.05106225
+expe_02_ant17__outbound_3_Flat.csv;ant17_;3;Flat;0.05625;92.91243358;52.70249035;0.034751308
+expe_02_ant18__outbound_1_Open_loop_pano.csv;ant18_;1;Open_loop_pano;0.36875;111.6049566;32.27654165;0.039975143
+expe_02_ant18__outbound_2_Flat.csv;ant18_;2;Flat;0.44375;109.1019571;42.61560727;0.031866662
+expe_02_ant18__outbound_3_W.csv;ant18_;3;White;0.375;144.7279917;36.49210952;0.037115059
+expe_02_ant19__outbound_1_Flat.csv;ant19_;1;Flat;0.3375;122.3433941;60.72971482;0.03868842
+expe_02_ant19__outbound_2_Open_loop_pano.csv;ant19_;2;Open_loop_pano;0.3875;142.0329322;57.64740664;0.049785069
+expe_02_ant19__outbound_3_W.csv;ant19_;3;White;0.225;134.6226566;64.03408175;0.052238396
+expe_02_ant20__outbound_1_Open_loop_pano.csv;ant20_;1;Open_loop_pano;0.34375;169.0671045;54.209304;0.040426821
+expe_02_ant20__outbound_2_W.csv;ant20_;2;White;0.44375;97.44922122;46.74462321;0.023618735
+expe_02_ant20__outbound_3_Flat.csv;ant20_;3;Flat;0.40625;147.2355487;53.1759639;0.029143883
+expe_02_ant21__outbound_1_W.csv;ant21_;1;White;0.40625;113.3019015;48.625941;0.040275213
+expe_02_ant21__outbound_2_Flat.csv;ant21_;2;Flat;0.39375;136.1792792;56.76807895;0.036536657
+expe_02_ant21__outbound_3_Open_loop_pano.csv;ant21_;3;Open_loop_pano;0.36875;201.4666457;43.93689941;0.033776168
+expe_02_ant22__outbound_1_Flat.csv;ant22_;1;Flat;0.45;91.97937457;41.44742865;0.023918632
+expe_02_ant22__outbound_2_W.csv;ant22_;2;White;0.1875;119.0286537;53.89041605;0.019554902
+expe_02_ant22__outbound_3_Open_loop_pano.csv;ant22_;3;Open_loop_pano;0.23125;133.6605432;49.39095327;0.032125955
+expe_02_ant23__outbound_1_W.csv;ant23_;1;White;0.39375;91.45878567;41.93390978;0.038409396
+expe_02_ant23__outbound_2_Open_loop_pano.csv;ant23_;2;Open_loop_pano;0.31875;177.3928666;43.17124555;0.04694692
+expe_02_ant23__outbound_3_Flat.csv;ant23_;3;Flat;0.25;121.1269623;52.70925637;0.032168923
+expe_02_ant24__outbound_1_Open_loop_pano.csv;ant24_;1;Open_loop_pano;0.3375;127.2520734;42.10106601;0.06317287
+expe_02_ant24__outbound_2_Flat.csv;ant24_;2;Flat;0.25625;91.60721501;60.94158979;0.018806035
+expe_02_ant24__outbound_3_W.csv;ant24_;3;White;0.2125;118.5313651;66.82179245;0.043296677
+expe_02_ant25__outbound_1_Flat.csv;ant25_;1;Flat;0.11875;110.4977024;38.45789457;0.008521751
+expe_02_ant25__outbound_2_Open_loop_pano.csv;ant25_;2;Open_loop_pano;0.24375;145.2290833;44.53384249;0.017699274
+expe_02_ant26__outbound_1_Open_loop_pano.csv;ant26_;1;Open_loop_pano;0.1875;135.6672624;47.11118007;0.047171956
+expe_02_ant26__outbound_2_W.csv;ant26_;2;White;0.08125;148.1493878;58.16915305;0.042467096
+expe_02_ant26__outbound_3_Flat.csv;ant26_;3;Flat;0.30625;111.0316898;63.89765501;0.038708737
+expe_02_ant27__outbound_1_W.csv;ant27_;1;White;0.24375;92.51854387;45.63482324;0.028380975
+expe_02_ant28__outbound_1_Flat.csv;ant28_;1;Flat;0.15625;192.5752165;51.43238718;0.025848936
+expe_02_ant28__outbound_2_Open_loop_pano.csv;ant28_;2;Open_loop_pano;0.1125;116.6469637;36.94989592;0.008195687
+expe_02_ant28__outbound_3_W.csv;ant28_;3;White;0.08125;104.0202285;35.46399993;0.002213178
+expe_02_ant29__outbound_1_W.csv;ant29_;1;White;NA;NA;5.176725344;0.000865295
+expe_02_ant29__outbound_2_Flat.csv;ant29_;2;Flat;0.1;91.97506378;57.7269285;0.020724362
+expe_02_ant29__outbound_3_Open_loop_pano.csv;ant29_;3;Open_loop_pano;0.3875;174.5842124;51.58030054;0.036403898
+expe_03_ant01__outbound_1_Vertical stripe.csv;ant01_;1;Vertical stripe;0.0375;113.9252019;42.92303245;0.075263231
+expe_03_ant01__outbound_2_Horizontal stripe.csv;ant01_;2;Horizontal stripe;0.1;94.03753867;45.35263828;0.050218395
+expe_03_ant02__outbound_1_Vertical stripe.csv;ant02_;1;Vertical stripe;0.2375;82.79217832;46.68946579;0.031232887
+expe_03_ant03__outbound_1_Horizontal stripe.csv;ant03_;1;Horizontal stripe;0.14375;115.988265;67.51754175;0.065146125
+expe_03_ant03__outbound_2_Vertical stripe.csv;ant03_;2;Vertical stripe;0.05625;143.1189386;55.83196448;0.074116604
+expe_03_ant04__outbound_1_Vertical stripe.csv;ant04_;1;Vertical stripe;0.31875;93.30018228;44.29812421;0.081266061
+expe_03_ant04__outbound_2_Horizontal stripe.csv;ant04_;2;Horizontal stripe;0.25;135.0740736;59.06389868;0.047685423
+expe_03_ant05__outbound_1_Horizontal stripe.csv;ant05_;1;Horizontal stripe;0.23125;141.4463145;45.52205397;0.028371331
+expe_03_ant06__outbound_1_Vertical stripe.csv;ant06_;1;Vertical stripe;0.41875;167.021615;30.95184156;0.017152615
+expe_03_ant06__outbound_2_Horizontal stripe.csv;ant06_;2;Horizontal stripe;0.3875;138.3841735;51.2588724;0.027742783
+expe_03_ant07__outbound_1_Horizontal stripe.csv;ant07_;1;Horizontal stripe;0.2375;140.5832483;65.04832036;0.028411481
+expe_03_ant08__outbound_1_Vertical stripe.csv;ant08_;1;Vertical stripe;0.25625;122.4677108;48.6443582;0.062975206
+expe_03_ant08__outbound_2_Horizontal stripe.csv;ant08_;2;Horizontal stripe;0.4;115.0241207;51.60430238;0.043807739
+expe_03_ant09__outbound_1_Horizontal stripe.csv;ant09_;1;Horizontal stripe;0.39375;99.92244687;50.06857287;0.057716005
+expe_03_ant09__outbound_2_Vertical stripe.csv;ant09_;2;Vertical stripe;0.20625;87.51352203;45.82329067;0.062247282
+expe_03_ant10__outbound_1_Vertical stripe.csv;ant10_;1;Vertical stripe;0.4375;109.707368;45.33621015;0.068758104
+expe_03_ant10__outbound_2_Horizontal stripe.csv;ant10_;2;Horizontal stripe;0.20625;123.8692917;59.17999486;0.04577186
+expe_03_ant11__outbound_1_Horizontal stripe.csv;ant11_;1;Horizontal stripe;0.29375;164.2902048;44.25212699;0.040377171
+expe_03_ant11__outbound_2_Vertical stripe.csv;ant11_;2;Vertical stripe;0.33125;120.8419678;45.06967941;0.032429193
+expe_03_ant12__outbound_1_Vertical stripe.csv;ant12_;1;Vertical stripe;0.28125;143.6603243;50.76240941;0.060123839
+expe_03_ant12__outbound_2_Horizontal stripe.csv;ant12_;2;Horizontal stripe;0.41875;64.6596807;51.54072334;0.029614896
+expe_03_ant13__outbound_1_Horizontal stripe.csv;ant13_;1;Horizontal stripe;0.15625;132.6292226;50.23757703;0.041028257
+expe_03_ant13__outbound_2_Vertical stripe.csv;ant13_;2;Vertical stripe;0.4125;146.0212605;47.18054208;0.044478323
+expe_03_ant14__outbound_1_Vertical stripe.csv;ant14_;1;Vertical stripe;0.05;142.7315429;48.3734252;0.076465306
+expe_03_ant14__outbound_2_Horizontal stripe.csv;ant14_;2;Horizontal stripe;0.35625;138.3945805;52.17212097;0.052195489
+expe_03_ant15__outbound_1_Horizontal stripe.csv;ant15_;1;Horizontal stripe;0.33125;84.77222451;45.21562414;0.026678231
+expe_03_ant15__outbound_2_Vertical stripe.csv;ant15_;2;Vertical stripe;0.35;158.4611001;44.69302087;0.04026952
+expe_03_ant16__outbound_1_Vertical stripe.csv;ant16_;1;Vertical stripe;0.41875;132.0740198;55.68514232;0.046348591
+expe_03_ant16__outbound_2_Horizontal stripe.csv;ant16_;2;Horizontal stripe;0.33125;97.09334536;61.16210244;0.033205101
+expe_03_ant17__outbound_1_Horizontal stripe.csv;ant17_;1;Horizontal stripe;0.525;157.1729462;55.6362955;0.040384513
+expe_03_ant17__outbound_2_Vertical stripe.csv;ant17_;2;Vertical stripe;0.13125;110.8623715;62.95759184;0.061257037
+expe_03_ant18__outbound_1_Vertical stripe.csv;ant18_;1;Vertical stripe;0.25;125.4804364;46.74539716;0.043114782
+expe_03_ant18__outbound_2_Horizontal stripe.csv;ant18_;2;Horizontal stripe;0.325;192.3552518;55.5115253;0.037131721
+expe_03_ant19__outbound_1_Horizontal stripe.csv;ant19_;1;Horizontal stripe;0.39375;97.90450639;47.63101062;0.032770379
+expe_03_ant19__outbound_2_Vertical stripe.csv;ant19_;2;Vertical stripe;0.23125;138.1571287;34.1639452;0.025222831
+expe_03_ant20__outbound_1_Vertical stripe.csv;ant20_;1;Vertical stripe;0.3375;190.3337393;45.46967448;0.063906287
+expe_03_ant20__outbound_2_Horizontal stripe.csv;ant20_;2;Horizontal stripe;0.39375;86.80608611;54.13177597;0.022536216
+expe_03_ant21__outbound_1_Horizontal stripe.csv;ant21_;1;Horizontal stripe;0.05;84.89849311;51.46888494;0.03212239
+expe_03_ant21__outbound_2_Vertical stripe.csv;ant21_;2;Vertical stripe;0.125;157.6668729;62.02880791;0.050879765
+expe_03_ant22__outbound_1_Vertical stripe.csv;ant22_;1;Vertical stripe;0.40625;118.8999671;54.64817775;0.022698401
+expe_03_ant22__outbound_2_Horizontal stripe.csv;ant22_;2;Horizontal stripe;0.275;123.796703;46.20762587;0.028796079
+expe_03_ant23__outbound_1_Horizontal stripe.csv;ant23_;1;Horizontal stripe;0.2125;123.7309676;52.30556177;0.02299223
+expe_03_ant24__outbound_1_Vertical stripe.csv;ant24_;1;Vertical stripe;0.15;191.4190161;53.57606799;0.056452275
+expe_03_ant24__outbound_2_Horizontal stripe.csv;ant24_;2;Horizontal stripe;0.2;75.41876018;67.44376086;0.039423731
+expe_03_ant25__outbound_1_Horizontal stripe.csv;ant25_;1;Horizontal stripe;0.36875;159.7974663;42.48968447;0.038310381
+expe_03_ant25__outbound_2_Vertical stripe.csv;ant25_;2;Vertical stripe;0.4;101.0958833;44.79697748;0.05895942
+expe_03_ant26__outbound_1_Vertical stripe.csv;ant26_;1;Vertical stripe;0.34375;120.9347861;36.54390124;0.05475932
+expe_03_ant26__outbound_2_Horizontal stripe.csv;ant26_;2;Horizontal stripe;0.45625;131.1706278;40.61654273;0.041766302
+expe_03_ant27__outbound_1_Horizontal stripe.csv;ant27_;1;Horizontal stripe;0.30625;108.7220955;58.23427708;0.046141977
+expe_03_ant27__outbound_2_Vertical stripe.csv;ant27_;2;Vertical stripe;0.3625;123.985241;44.58357887;0.046614897
+expe_03_ant28__outbound_1_Vertical stripe.csv;ant28_;1;Vertical stripe;0.29375;167.662912;54.86960458;0.056043632
+expe_03_ant29__outbound_1_Horizontal stripe.csv;ant29_;1;Horizontal stripe;0.125;121.1249891;51.75701807;0.034079128
+expe_03_ant30__outbound_1_Vertical stripe.csv;ant30_;1;Vertical stripe;0.275;97.02321769;54.96465889;0.063020269
+expe_03_ant31__outbound_1_Horizontal stripe.csv;ant31_;1;Horizontal stripe;0.31875;110.8408701;59.29598062;0.059139562
+expe_03_ant32__outbound_1_Vertical stripe.csv;ant32_;1;Vertical stripe;0.275;116.4844072;45.08046764;0.050848366
+expe_03_ant32__outbound_2_Horizontal stripe.csv;ant32_;2;Horizontal stripe;0.01875;106.6414822;48.57223136;0.028820043
+expe_04_Ant_01_outbound_1_Inverted_Open_loop_pano.csv;Ant_01;1;Inverted_Open_loop_pano;0.34375;213.8363649;35.34807878;0.066611155
+expe_04_Ant_01_outbound_2_W.csv;Ant_01;2;White;0.375;169.0200826;59.40659432;0.030867306
+expe_04_Ant_01_outbound_3_Open_loop_pano.csv;Ant_01;3;Open_loop_pano;0.225;124.023102;39.35469759;0.04134703
+expe_04_Ant_02_outbound_1_W.csv;Ant_02;1;White;0.275;126.9472155;65.964397;0.042735046
+expe_04_Ant_02_outbound_2_Open_loop_pano.csv;Ant_02;2;Open_loop_pano;0.35625;134.405709;51.4870955;0.054634101
+expe_04_Ant_02_outbound_3_Inverted_Open_loop_pano.csv;Ant_02;3;Inverted_Open_loop_pano;0.20625;182.8561211;59.13120934;0.064771339
+expe_04_Ant_03_outbound_1_Open_loop_pano.csv;Ant_03;1;Open_loop_pano;0.2875;132.2921759;39.38840902;0.088154703
+expe_04_Ant_03_outbound_2_Inverted_Open_loop_pano.csv;Ant_03;2;Inverted_Open_loop_pano;0.3;218.7268431;44.24332478;0.065740491
+expe_04_Ant_03_outbound_3_W.csv;Ant_03;3;White;0.375;126.9329661;50.19130015;0.059135462
+expe_04_Ant_04_outbound_1_Inverted_Open_loop_pano.csv;Ant_04;1;Inverted_Open_loop_pano;0.28125;142.4783978;30.07073356;0.104188668
+expe_04_Ant_04_outbound_2_Open_loop_pano.csv;Ant_04;2;Open_loop_pano;0.25625;100.2842002;28.94256765;0.115569009
+expe_04_Ant_04_outbound_3_W.csv;Ant_04;3;White;0.1875;143.8467414;49.26880711;0.054269011
+expe_04_Ant_05_outbound_1_Open_loop_pano.csv;Ant_05;1;Open_loop_pano;0.3875;123.6134976;42.62988496;0.049256163
+expe_04_Ant_05_outbound_2_W.csv;Ant_05;2;White;0.15625;76.01006946;45.08019735;0.04088359
+expe_04_Ant_05_outbound_3_Inverted_Open_loop_pano.csv;Ant_05;3;Inverted_Open_loop_pano;0.25;152.3932598;40.38072538;0.049687548
+expe_04_Ant_06_outbound_1_W.csv;Ant_06;1;White;0.1375;135.0035577;60.51730518;0.050710447
+expe_04_Ant_06_outbound_2_Inverted_Open_loop_pano.csv;Ant_06;2;Inverted_Open_loop_pano;0.2;105.6212511;41.51246287;0.06185973
+expe_04_Ant_06_outbound_3_Open_loop_pano.csv;Ant_06;3;Open_loop_pano;0.175;113.5642158;38.80172594;0.065635355
+expe_04_Ant_07_outbound_1_Inverted_Open_loop_pano.csv;Ant_07;1;Inverted_Open_loop_pano;0.24375;150.1321866;36.88852638;0.083892058
+expe_04_Ant_07_outbound_2_W.csv;Ant_07;2;White;0.28125;120.1274401;45.59733195;0.046460737
+expe_04_Ant_07_outbound_3_Open_loop_pano.csv;Ant_07;3;Open_loop_pano;0.26875;140.5372768;44.06770642;0.098718443
+expe_04_Ant_09_outbound_1_Open_loop_pano.csv;Ant_09;1;Open_loop_pano;0.3125;112.5267183;45.61340228;0.077236583
+expe_04_Ant_09_outbound_2_Inverted_Open_loop_pano.csv;Ant_09;2;Inverted_Open_loop_pano;0.15;141.1383887;45.48190459;0.074454465
+expe_04_Ant_09_outbound_3_W.csv;Ant_09;3;White;0.11875;84.58551035;57.60505986;0.043277329
+expe_04_Ant_10_outbound_1_Inverted_Open_loop_pano.csv;Ant_10;1;Inverted_Open_loop_pano;0.30625;103.9143802;31.53166875;0.056776393
+expe_04_Ant_10_outbound_2_Open_loop_pano.csv;Ant_10;2;Open_loop_pano;0.225;117.6640523;41.17190176;0.045097468
+expe_04_Ant_10_outbound_3_W.csv;Ant_10;3;White;0.16875;120.3148393;57.99776689;0.036039824
+expe_04_Ant_11_outbound_1_Open_loop_pano.csv;Ant_11;1;Open_loop_pano;0.33125;147.7600923;33.86053302;0.056391944
+expe_04_Ant_12_outbound_1_W.csv;Ant_12;1;White;0.1625;107.6064752;26.06974151;0.013529695
+expe_04_Ant_12_outbound_2_Inverted_Open_loop_pano.csv;Ant_12;2;Inverted_Open_loop_pano;NA;NA;21.14204821;0.001400756
+expe_04_Ant_12_outbound_3_Open_loop_pano.csv;Ant_12;3;Open_loop_pano;NA;NA;14.75783159;0.002026285
+expe_04_Ant_13_outbound_1_Inverted_Open_loop_pano.csv;Ant_13;1;Inverted_Open_loop_pano;0.26875;220.3964721;38.03784489;0.075508392
+expe_04_Ant_13_outbound_2_W.csv;Ant_13;2;White;0.125;89.60548733;48.55179901;0.044526326
+expe_04_Ant_13_outbound_3_Open_loop_pano.csv;Ant_13;3;Open_loop_pano;0.28125;305.010502;45.72898991;0.093307846
+expe_04_Ant_14_outbound_1_W.csv;Ant_14;1;White;0.2875;94.23306528;39.25979397;0.023307337
+expe_04_Ant_14_outbound_2_Open_loop_pano.csv;Ant_14;2;Open_loop_pano;0.29375;166.1525821;53.73903089;0.068991725
+expe_04_Ant_14_outbound_3_Inverted_Open_loop_pano.csv;Ant_14;3;Inverted_Open_loop_pano;0.26875;261.6411511;52.51634366;0.071795525
+expe_04_Ant_15_outbound_1_Open_loop_pano.csv;Ant_15;1;Open_loop_pano;0.28125;141.3790912;52.65607245;0.05898499
+expe_04_Ant_15_outbound_2_Inverted_Open_loop_pano.csv;Ant_15;2;Inverted_Open_loop_pano;0.3125;150.4708853;58.50106627;0.061556465
+expe_04_Ant_15_outbound_3_W.csv;Ant_15;3;White;0.3125;177.533174;62.24081563;0.042240276
+expe_04_Ant_16_outbound_1_Inverted_Open_loop_pano.csv;Ant_16;1;Inverted_Open_loop_pano;0.25;105.3559987;41.57086729;0.046708314
+expe_04_Ant_16_outbound_2_Open_loop_pano.csv;Ant_16;2;Open_loop_pano;0.34375;106.5490952;57.36956207;0.064877849
+expe_04_Ant_16_outbound_3_W.csv;Ant_16;3;White;0.40625;104.065755;59.18527094;0.045333112
+expe_04_Ant_17_outbound_1_Open_loop_pano.csv;Ant_17;1;Open_loop_pano;0.31875;159.0068433;43.64640368;0.070253725
+expe_04_Ant_17_outbound_2_W.csv;Ant_17;2;White;0.5;94.22837582;50.97268731;0.043894433
+expe_04_Ant_17_outbound_3_Inverted_Open_loop_pano.csv;Ant_17;3;Inverted_Open_loop_pano;0.31875;203.1415182;48.65136992;0.073140659
+expe_04_Ant_18_outbound_1_W.csv;Ant_18;1;White;0.19375;79.15381923;55.86478359;0.075712718
+expe_04_Ant_18_outbound_2_Inverted_Open_loop_pano.csv;Ant_18;2;Inverted_Open_loop_pano;0.3;243.7949308;44.02016613;0.079310553
+expe_04_Ant_18_outbound_3_Open_loop_pano.csv;Ant_18;3;Open_loop_pano;0.2875;260.7215;54.98908928;0.099100368
+expe_04_Ant_19_outbound_3_Open_loop_pano.csv;Ant_19;3;Open_loop_pano;0.48125;94.87875326;43.37992832;0.055696972
+expe_04_Ant_20_outbound_1_W.csv;Ant_20;1;White;0.1625;97.6711221;55.0767182;0.060090503
+expe_04_Ant_20_outbound_2_Open_loop_pano.csv;Ant_20;2;Open_loop_pano;0.26875;110.5411618;44.6937952;0.075368403
+expe_04_Ant_21_outbound_1_Open_loop_pano.csv;Ant_21;1;Open_loop_pano;0.35;107.1255215;38.25019438;0.066220376
+expe_04_Ant_21_outbound_2_Inverted_Open_loop_pano.csv;Ant_21;2;Inverted_Open_loop_pano;0.375;144.3430969;35.13033442;0.055165327
+expe_04_Ant_21_outbound_3_W.csv;Ant_21;3;White;0.175;112.613322;57.18564157;0.039909481
+expe_04_Ant_22_outbound_1_Inverted_Open_loop_pano.csv;Ant_22;1;Inverted_Open_loop_pano;0.03125;111.2575038;41.85010356;0.072302154
+expe_04_Ant_22_outbound_2_Open_loop_pano.csv;Ant_22;2;Open_loop_pano;0.24375;126.6138544;42.0672147;0.079017491
+expe_04_Ant_22_outbound_3_W.csv;Ant_22;3;White;0.0375;155.9419443;49.27200604;0.084016982
+expe_04_Ant_23_outbound_1_Open_loop_pano.csv;Ant_23;1;Open_loop_pano;0.19375;89.72859061;59.37191647;0.017057463
+expe_04_Ant_23_outbound_2_W.csv;Ant_23;2;White;NA;NA;10.64017075;0.001622513
+expe_04_Ant_24_outbound_1_W.csv;Ant_24;1;White;0.175;158.1628892;53.65728088;0.023963506
+expe_04_Ant_25_outbound_1_Inverted_Open_loop_pano.csv;Ant_25;1;Inverted_Open_loop_pano;0.2625;185.0662968;46.03818197;0.078697826
+expe_04_Ant_25_outbound_2_W.csv;Ant_25;2;White;0.4;146.9982452;56.65767449;0.066499446
+expe_04_Ant_26_outbound_1_W.csv;Ant_26;1;White;NA;NA;29.17049095;0.022189043
+expe_04_Ant_26_outbound_2_Open_loop_pano.csv;Ant_26;2;Open_loop_pano;0.03125;174.2752103;61.04286494;0.057993838
+expe_04_Ant_26_outbound_3_Inverted_Open_loop_pano.csv;Ant_26;3;Inverted_Open_loop_pano;0.29375;239.7445987;55.10809807;0.053038507
+expe_04_Ant_27_outbound_1_Open_loop_pano.csv;Ant_27;1;Open_loop_pano;0.275;201.0577679;66.21079355;0.068100254
+expe_04_Ant_27_outbound_2_Inverted_Open_loop_pano.csv;Ant_27;2;Inverted_Open_loop_pano;0.3375;153.0313111;59.49218095;0.064844197
+expe_04_Ant_27_outbound_3_W.csv;Ant_27;3;White;0.225;150.9215318;61.70988364;0.035768702
+expe_04_Ant_28_outbound_1_Inverted_Open_loop_pano.csv;Ant_28;1;Inverted_Open_loop_pano;0.33125;121.2454077;35.78111499;0.05116626
+expe_04_Ant_28_outbound_2_Open_loop_pano.csv;Ant_28;2;Open_loop_pano;0.1875;132.4185327;43.06073318;0.028475166
+expe_04_Ant_28_outbound_3_White.csv;Ant_28;3;White;0.21875;120.4098536;61.2941547;0.045207229
+expe_04_Ant_29_outbound_1_Open_loop_pano.csv;Ant_29;1;Open_loop_pano;0.29375;114.9081134;44.15926631;0.077746701
+expe_04_Ant_29_outbound_2_W.csv;Ant_29;2;White;0.06875;125.3324172;77.27664455;0.080191503
+expe_04_Ant_29_outbound_3_Inverted_Open_loop_pano.csv;Ant_29;3;Inverted_Open_loop_pano;0.3625;131.0184778;70.35811298;0.07800635
+expe_04_Ant_30_outbound_1_W.csv;Ant_30;1;White;0.3125;143.4625029;57.80996559;0.059148997
+expe_04_Ant_30_outbound_2_Inverted_Open_loop_pano.csv;Ant_30;2;Inverted_Open_loop_pano;0.175;89.86166421;49.94950309;0.088443329
+expe_04_Ant_30_outbound_3_Open_loop_pano.csv;Ant_30;3;Open_loop_pano;0.325;116.3446124;56.39199389;0.064733495
+expe_04_Ant_31_outbound_1_Inverted_Open_loop_pano.csv;Ant_31;1;Inverted_Open_loop_pano;0.1;145.4939883;14.02323365;0.028095056
+expe_04_Ant_31_outbound_2_W.csv;Ant_31;2;White;NA;NA;7.675751616;0.003112316
+expe_04_Ant_31_outbound_3_Open_loop_pano.csv;Ant_31;3;Open_loop_pano;0.2625;134.3939793;44.86196367;0.055771218
+expe_05_Ant_01_outbound_1_Open_loop_pano.csv;Ant_01;1;Open_loop_pano;0.2;258.7648474;50.41393326;0.049027969
+expe_05_Ant_01_outbound_2_Inverted_Open_loop_pano.csv;Ant_01;2;Inverted_Open_loop_pano;0.18125;163.1819152;45.27136877;0.053760072
+expe_05_Ant_01_outbound_3_Flat.csv;Ant_01;3;Flat;0.1875;120.2773612;53.80394946;0.031979806
+expe_05_Ant_01_outbound_4_Inverted_Flat.csv;Ant_01;4;Inverted_Flat;0.11875;135.4253355;60.47540215;0.058772253
+expe_05_Ant_02_outbound_1_Inverted_Open_loop_pano.csv;Ant_02;1;Inverted_Open_loop_pano;0.44375;116.486506;31.29486674;0.060786035
+expe_05_Ant_03_outbound_1_Flat.csv;Ant_03;1;Flat;0.3375;118.6550941;44.81863916;0.025198707
+expe_05_Ant_03_outbound_2_Open_loop_pano.csv;Ant_03;2;Open_loop_pano;0.375;114.06379;42.07756295;0.061763756
+expe_05_Ant_03_outbound_3_Inverted_Open_loop_pano.csv;Ant_03;3;Inverted_Open_loop_pano;0.25;118.3885201;30.81145194;0.017482995
+expe_05_Ant_03_outbound_4_Inverted_Flat.csv;Ant_03;4;Inverted_Flat;0.175;134.4614784;51.36979384;0.031864832
+expe_05_Ant_04_outbound_1_Inverted_Flat.csv;Ant_04;1;Inverted_Flat;0.18125;204.824664;49.03471364;0.089772844
+expe_05_Ant_04_outbound_2_Open_loop_pano.csv;Ant_04;2;Open_loop_pano;0.26875;143.9380031;44.50660249;0.085852753
+expe_05_Ant_04_outbound_3_Inverted_Open_loop_pano.csv;Ant_04;3;Inverted_Open_loop_pano;0.20625;214.1803369;50.37279588;0.065254711
+expe_05_Ant_04_outbound_4_Flat.csv;Ant_04;4;Flat;0.4375;105.3288823;32.01641119;0.043236066
+expe_05_Ant_05_outbound_1_Open_loop_pano.csv;Ant_05;1;Open_loop_pano;0.35625;168.036779;45.04884338;0.076635677
+expe_05_Ant_05_outbound_2_Inverted_Open_loop_pano.csv;Ant_05;2;Inverted_Open_loop_pano;0.33125;196.8865102;47.31237939;0.065307716
+expe_05_Ant_05_outbound_3_Inverted_Flat.csv;Ant_05;3;Inverted_Flat;0.13125;107.8786628;52.89567296;0.045901765
+expe_05_Ant_05_outbound_4_Flat.csv;Ant_05;4;Flat;0.3625;116.1870575;67.15398511;0.046580292
+expe_05_Ant_06_outbound_1_Inverted_Open_loop_pano.csv;Ant_06;1;Inverted_Open_loop_pano;0.06875;172.3263926;38.8675104;0.049556588
+expe_05_Ant_06_outbound_2_Open_loop_pano.csv;Ant_06;2;Open_loop_pano;0.18125;89.93655248;49.35909741;0.045380408
+expe_05_Ant_06_outbound_3_Inverted_Flat.csv;Ant_06;3;Inverted_Flat;0.13125;91.23843677;36.31168025;0.016328234
+expe_05_Ant_06_outbound_4_Flat.csv;Ant_06;4;Flat;0.3625;112.4864552;57.22611509;0.042533908
+expe_05_Ant_08_outbound_1_Inverted_Flat.csv;Ant_08;1;Inverted_Flat;0.2125;92.33715176;36.55453421;0.072635177
+expe_05_Ant_08_outbound_2_Open_loop_pano.csv;Ant_08;2;Open_loop_pano;0.3;233.8422317;49.37951211;0.064343433
+expe_05_Ant_08_outbound_3_Flat.csv;Ant_08;3;Flat;0.29375;91.87936253;53.99882591;0.062688026
+expe_05_Ant_08_outbound_4_Inverted_Open_loop_pano.csv;Ant_08;4;Inverted_Open_loop_pano;0.43125;93.8081569;39.0308738;0.058848437
+expe_05_Ant_10_outbound_1_Inverted_Open_loop_pano.csv;Ant_10;1;Inverted_Open_loop_pano;0.28125;95.71784543;45.55842474;0.024840516
+expe_05_Ant_11_outbound_1_Flat.csv;Ant_11;1;Flat;0.3375;83.36572649;52.93257609;0.05602005
+expe_05_Ant_11_outbound_2_Inverted_Open_loop_pano.csv;Ant_11;2;Inverted_Open_loop_pano;0.24375;198.1718478;65.16404971;0.099141608
+expe_05_Ant_11_outbound_3_Open_loop_pano.csv;Ant_11;3;Open_loop_pano;0.275;242.0296039;57.47527952;0.093080141
+expe_05_Ant_11_outbound_4_Inverted_Flat.csv;Ant_11;4;Inverted_Flat;0.1875;180.124078;61.04111625;0.097788348
+expe_05_Ant_12_outbound_1_Inverted_Flat.csv;Ant_12;1;Inverted_Flat;0.13125;143.4683092;61.59559465;0.070569816
+expe_05_Ant_15_outbound_1_Flat.csv;Ant_15;1;Flat;0.075;93.06107718;52.59050017;0.033274982
+expe_05_Ant_15_outbound_2_Inverted_Open_loop_pano.csv;Ant_15;2;Inverted_Open_loop_pano;0.175;102.7208729;42.0969471;0.058037228
+expe_05_Ant_15_outbound_3_Inverted_Flat.csv;Ant_15;3;Inverted_Flat;0.2625;113.0544661;50.10559467;0.057825633
+expe_05_Ant_15_outbound_4_Open_loop_pano.csv;Ant_15;4;Open_loop_pano;0.29375;171.0841768;41.23535337;0.074020642
+expe_05_Ant_16_outbound_1_Inverted_Flat.csv;Ant_16;1;Inverted_Flat;0.23125;123.0314637;38.36806802;0.081147966
+expe_05_Ant_16_outbound_2_Inverted_Open_loop_pano.csv;Ant_16;2;Inverted_Open_loop_pano;0.225;122.9356982;42.24224504;0.091113086
+expe_05_Ant_16_outbound_3_Flat.csv;Ant_16;3;Flat;0.025;161.0614719;55.99830834;0.061484909
+expe_05_Ant_16_outbound_4_Open_loop_pano.csv;Ant_16;4;Open_loop_pano;0.24375;139.0022558;55.38656544;0.087686842
+expe_05_Ant_17_outbound_1_Open_loop_pano.csv;Ant_17;1;Open_loop_pano;0.26875;94.85433811;32.29585658;0.051790501
+expe_05_Ant_17_outbound_2_Inverted_Flat.csv;Ant_17;2;Inverted_Flat;NA;NA;28.60098061;0.017150908
+expe_05_Ant_17_outbound_3_Inverted_Open_loop_pano.csv;Ant_17;3;Inverted_Open_loop_pano;0.28125;227.1871619;54.31399226;0.042782327
+expe_05_Ant_17_outbound_4_Flat.csv;Ant_17;4;Flat;0.1625;198.6671768;58.516222;0.023259207
+expe_05_Ant_18_outbound_1_Inverted_Open_loop_pano.csv;Ant_18;1;Inverted_Open_loop_pano;0.14375;104.5870482;39.99931462;0.082205675
+expe_05_Ant_18_outbound_2_Inverted_Flat.csv;Ant_18;2;Inverted_Flat;0.23125;180.0731931;46.32046065;0.078735784
+expe_05_Ant_18_outbound_3_Open_loop_pano.csv;Ant_18;3;Open_loop_pano;0.25625;158.7020228;45.16071719;0.074483049
+expe_05_Ant_18_outbound_4_Flat.csv;Ant_18;4;Flat;0.18125;121.0871239;54.2170399;0.052660952
+expe_05_Ant_19_outbound_1_Flat.csv;Ant_19;1;Flat;0.175;93.80427545;55.45414803;0.06508103
+expe_05_Ant_19_outbound_2_Inverted_Flat.csv;Ant_19;2;Inverted_Flat;0.28125;159.557825;46.91776019;0.068561674
+expe_05_Ant_19_outbound_3_Open_loop_pano.csv;Ant_19;3;Open_loop_pano;0.29375;188.7388292;42.56620933;0.090054803
+expe_05_Ant_19_outbound_4_Inverted_Open_loop_pano.csv;Ant_19;4;Inverted_Open_loop_pano;0.29375;169.9635115;43.55359326;0.070970535
+expe_05_Ant_21_outbound_1_Open_loop_pano.csv;Ant_21;1;Open_loop_pano;0.14375;111.133456;48.85491265;0.039241817
+expe_05_Ant_22_outbound_1_Inverted_Open_loop_pano.csv;Ant_22;1;Inverted_Open_loop_pano;0.49375;109.5783893;52.78160099;0.074028773
+expe_05_Ant_22_outbound_2_Inverted_Flat.csv;Ant_22;2;Inverted_Flat;0.21875;95.24635779;63.98251699;0.073259251
+expe_05_Ant_22_outbound_3_Flat.csv;Ant_22;3;Flat;0.1;140.8203538;68.5088676;0.071035122
+expe_05_Ant_22_outbound_4_Open_loop_pano.csv;Ant_22;4;Open_loop_pano;0.1875;107.4424277;58.55059453;0.07181988
+expe_05_Ant_23_outbound_1_Flat.csv;Ant_23;1;Flat;0.19375;144.6728655;70.39449377;0.079687704
+expe_05_Ant_23_outbound_2_Inverted_Flat.csv;Ant_23;2;Inverted_Flat;0.15;148.4664077;53.53856739;0.084507963
+expe_05_Ant_23_outbound_3_Inverted_Open_loop_pano.csv;Ant_23;3;Inverted_Open_loop_pano;0.325;114.5447439;38.20066684;0.057210892
+expe_05_Ant_23_outbound_4_Open_loop_pano.csv;Ant_23;4;Open_loop_pano;0.4;148.7957531;50.64099267;0.079190413
+expe_05_Ant_24_outbound_1_Inverted_Flat.csv;Ant_24;1;Inverted_Flat;0.4375;95.47898391;46.53011554;0.070129187
+expe_05_Ant_24_outbound_2_Flat.csv;Ant_24;2;Flat;0.05;154.483637;61.37981485;0.058602514
+expe_05_Ant_24_outbound_3_Inverted_Open_loop_pano.csv;Ant_24;3;Inverted_Open_loop_pano;0.23125;252.7197746;48.97406173;0.093374331
+expe_05_Ant_24_outbound_4_Open_loop_pano.csv;Ant_24;4;Open_loop_pano;0.3;167.9347812;54.68835664;0.083655965
+expe_05_Ant_25_outbound_1_Open_loop_pano.csv;Ant_25;1;Open_loop_pano;0.24375;177.570849;35.98643606;0.074295812
+expe_05_Ant_25_outbound_2_Inverted_Open_loop_pano.csv;Ant_25;2;Inverted_Open_loop_pano;0.2375;223.0253205;56.01215636;0.078193952
+expe_05_Ant_25_outbound_3_Flat.csv;Ant_25;3;Flat;0.03125;114.8022584;45.9853394;0.042155831
+expe_05_Ant_25_outbound_4_Inverted_Flat.csv;Ant_25;4;Inverted_Flat;0.24375;181.4571554;54.0809805;0.079369859
+expe_05_Ant_26_outbound_1_Flat.csv;Ant_26;1;Flat;0.29375;206.1436883;65.65438628;0.055613985
+expe_05_Ant_26_outbound_2_Open_loop_pano.csv;Ant_26;2;Open_loop_pano;0.45625;109.9288666;49.09292579;0.064188182
+expe_05_Ant_26_outbound_3_Inverted_Open_loop_pano.csv;Ant_26;3;Inverted_Open_loop_pano;0.225;122.7863901;49.34728859;0.056676447
+expe_05_Ant_26_outbound_4_Inverted_Flat.csv;Ant_26;4;Inverted_Flat;0.23125;155.6261738;43.64890695;0.057893991
+expe_05_Ant_27_outbound_1_Inverted_Open_loop_pano.csv;Ant_27;1;Inverted_Open_loop_pano;0.40625;163.1453078;44.84555039;0.058379109
+expe_05_Ant_27_outbound_2_Open_loop_pano.csv;Ant_27;2;Open_loop_pano;0.175;324.5672511;49.01049276;0.051199727
+expe_05_Ant_27_outbound_3_Flat.csv;Ant_27;3;Flat;0.30625;152.9623263;48.25682783;0.030010116
+expe_05_Ant_27_outbound_4_Inverted_Flat.csv;Ant_27;4;Inverted_Flat;0.2125;285.6774801;49.78512666;0.044255936
+expe_05_Ant_28_outbound_1_Open_loop_pano.csv;Ant_28;1;Open_loop_pano;0.1375;191.2713853;52.92198447;0.012557721
+expe_05_Ant_28_outbound_2_Inverted_Open_loop_pano.csv;Ant_28;2;Inverted_Open_loop_pano;0.2;123.1637934;52.62899731;0.01226431
+expe_05_Ant_28_outbound_3_Inverted_Flat.csv;Ant_28;3;Inverted_Flat;0.16875;130.3865608;40.39140736;0.043700354
+expe_05_Ant_28_outbound_4_Flat.csv;Ant_28;4;Flat;0.26875;141.475972;60.98713099;0.023824265
+expe_05_Ant_29_outbound_1_Inverted_Flat.csv;Ant_29;1;Inverted_Flat;0.25;113.7142008;41.36348292;0.03383758
+expe_05_Ant_29_outbound_2_Open_loop_pano.csv;Ant_29;2;Open_loop_pano;0.19375;188.7739591;52.03431534;0.056368196
+expe_05_Ant_29_outbound_3_Inverted_Open_loop_pano.csv;Ant_29;3;Inverted_Open_loop_pano;0.325;82.01498623;42.06995144;0.02558395
+expe_05_Ant_29_outbound_4_Flat.csv;Ant_29;4;Flat;0.2875;112.1030679;44.59718412;0.013485203
+expe_05_Ant_30_outbound_1_Inverted_Open_loop_pano.csv;Ant_30;1;Inverted_Open_loop_pano;0.30625;110.7395524;41.25195925;0.043622342
+expe_05_Ant_30_outbound_2_Open_loop_pano.csv;Ant_30;2;Open_loop_pano;0.24375;122.1859861;40.18631377;0.064087236
+expe_05_Ant_30_outbound_3_Inverted_Flat.csv;Ant_30;3;Inverted_Flat;0.3625;157.4565194;47.80095055;0.046913904
+expe_05_Ant_30_outbound_4_Flat.csv;Ant_30;4;Flat;0.15625;193.6493469;56.25591942;0.038276348
+expe_05_Ant_31_outbound_1_Flat.csv;Ant_31;1;Flat;0.08125;143.0159866;68.02355536;0.075230751
+expe_05_Ant_31_outbound_2_Open_loop_pano.csv;Ant_31;2;Open_loop_pano;0.2625;260.4663132;64.64634317;0.087418033
+expe_05_Ant_31_outbound_3_Inverted_Flat.csv;Ant_31;3;Inverted_Flat;0.2125;276.007594;60.90216752;0.072839677
+expe_05_Ant_31_outbound_4_Inverted_Open_loop_pano.csv;Ant_31;4;Inverted_Open_loop_pano;0.2625;354.7009816;49.86317397;0.086385728
+expe_05_Ant_32_outbound_1_Open_loop_pano.csv;Ant_32;1;Open_loop_pano;0.15625;153.3963448;60.53085296;0.086777481
+expe_05_Ant_32_outbound_2_Flat.csv;Ant_32;2;Flat;0.25;229.692547;61.11056789;0.047917515
+expe_05_Ant_32_outbound_3_Inverted_Open_loop_pano.csv;Ant_32;3;Inverted_Open_loop_pano;0.2125;147.9050097;68.3116345;0.08133528
+expe_05_Ant_32_outbound_4_Inverted_Flat.csv;Ant_32;4;Inverted_Flat;0.26875;139.5405589;58.31238233;0.085318387
+expe_05_Ant_33_outbound_1_Open_loop_pano.csv;Ant_33;1;Open_loop_pano;0.2125;96.9154579;33.22692503;0.116759521
+expe_05_Ant_33_outbound_2_Flat.csv;Ant_33;2;Flat;0.36875;107.5614028;61.20010699;0.045681533
+expe_05_Ant_33_outbound_3_Inverted_Flat.csv;Ant_33;3;Inverted_Flat;0.4125;130.1100772;51.13402109;0.08326578
+expe_05_Ant_33_outbound_4_Inverted_Open_loop_pano.csv;Ant_33;4;Inverted_Open_loop_pano;0.25;131.1677602;43.68350702;0.096425138
+expe_06_Ant01__outbound_1_Heterogeneous.csv;Ant01_;1;Heterogeneous;0.35;206.0710762;46.21861817;0.06735927
+expe_06_Ant01__outbound_2_Homogeneous dark.csv;Ant01_;2;Homogeneous dark;0.21875;84.11530427;32.33599492;0.01905376
+expe_06_Ant02__outbound_1_Homogeneous dark.csv;Ant02_;1;Homogeneous dark;0.225;243.7157656;30.37319538;0.029157072
+expe_06_Ant02__outbound_2_Homogeneous bright.csv;Ant02_;2;Homogeneous bright;0.325;171.1646039;39.23518947;0.064694036
+expe_06_Ant02__outbound_3_Heterogeneous.csv;Ant02_;3;Heterogeneous;0.325;151.8522514;41.83349009;0.047169246
+expe_06_Ant03__outbound_1_Homogeneous bright.csv;Ant03_;1;Homogeneous bright;0.43125;194.5452049;45.64222585;0.057327054
+expe_06_Ant03__outbound_2_Heterogeneous.csv;Ant03_;2;Heterogeneous;0.275;180.392987;44.22527923;0.061879827
+expe_06_Ant03__outbound_3_Homogeneous dark.csv;Ant03_;3;Homogeneous dark;0.35625;169.9020834;56.13830044;0.066846289
+expe_06_Ant04__outbound_1_Heterogeneous.csv;Ant04_;1;Heterogeneous;0.1375;120.3924154;46.80407207;0.068641656
+expe_06_Ant05__outbound_1_Homogeneous dark.csv;Ant05_;1;Homogeneous dark;0.1625;167.7633372;42.47161109;0.074497596
+expe_06_Ant05__outbound_2_Heterogeneous.csv;Ant05_;2;Heterogeneous;0.28125;146.8895639;47.95649685;0.081318895
+expe_06_Ant05__outbound_3_Homogeneous bright.csv;Ant05_;3;Homogeneous bright;0.225;257.0619968;56.82680445;0.058248706
+expe_06_Ant06__outbound_1_Homogeneous bright.csv;Ant06_;1;Homogeneous bright;0.11875;139.964625;52.0244718;0.082652454
+expe_06_Ant06__outbound_2_Homogeneous dark.csv;Ant06_;2;Homogeneous dark;0.23125;96.51764927;52.3089711;0.048480951
+expe_06_Ant06__outbound_3_Heterogeneous.csv;Ant06_;3;Heterogeneous;0.3;223.3576019;44.94814896;0.087706398
+expe_06_Ant07__outbound_1_Heterogeneous.csv;Ant07_;1;Heterogeneous;0.2;99.93260903;41.89791002;0.10502042
+expe_06_Ant07__outbound_2_Homogeneous dark.csv;Ant07_;2;Homogeneous dark;0.2375;272.9719338;55.54157075;0.092209482
+expe_06_Ant07__outbound_3_Homogeneous bright.csv;Ant07_;3;Homogeneous bright;0.175;237.1643664;57.24414356;0.083203772
+expe_06_Ant08__outbound_1_Homogeneous dark.csv;Ant08_;1;Homogeneous dark;0.31875;171.6453972;45.24356559;0.032489742
+expe_06_Ant09__outbound_1_Homogeneous bright.csv;Ant09_;1;Homogeneous bright;0.225;162.8682867;59.85204675;0.073838443
+expe_06_Ant09__outbound_2_Heterogeneous.csv;Ant09_;2;Heterogeneous;0.35625;135.6944838;51.40479906;0.072924597
+expe_06_Ant09__outbound_3_Homogeneous dark.csv;Ant09_;3;Homogeneous dark;0.33125;152.4310229;61.37567419;0.076495982
+expe_06_Ant10__outbound_1_Heterogeneous.csv;Ant10_;1;Heterogeneous;0.10625;154.948273;35.52667612;0.08064868
+expe_06_Ant10__outbound_2_Homogeneous dark.csv;Ant10_;2;Homogeneous dark;0.325;212.0448352;43.25121466;0.047289679
+expe_06_Ant10__outbound_3_Homogeneous bright.csv;Ant10_;3;Homogeneous bright;0.375;237.5043664;59.53870255;0.065532369
+expe_06_Ant11__outbound_1_Homogeneous dark.csv;Ant11_;1;Homogeneous dark;0.30625;158.7713524;51.78409554;0.085568201
+expe_06_Ant11__outbound_2_Heterogeneous.csv;Ant11_;2;Heterogeneous;0.23125;289.4528512;48.66596363;0.087926566
+expe_06_Ant11__outbound_3_Homogeneous bright.csv;Ant11_;3;Homogeneous bright;0.36875;121.5935361;58.71005991;0.06802329
+expe_06_Ant12__outbound_1_Homogeneous bright.csv;Ant12_;1;Homogeneous bright;0.2375;257.9707118;51.93896087;0.053328337
+expe_06_Ant12__outbound_2_Homogeneous dark.csv;Ant12_;2;Homogeneous dark;0.23125;254.7759086;53.02607776;0.0809169
+expe_06_Ant12__outbound_3_Heterogeneous.csv;Ant12_;3;Heterogeneous;0.28125;236.7827884;40.88299007;0.080012076
+expe_06_Ant13__outbound_1_Heterogeneous.csv;Ant13_;1;Heterogeneous;0.28125;182.683339;37.59075507;0.0557216
+expe_06_Ant13__outbound_2_Homogeneous dark.csv;Ant13_;2;Homogeneous dark;0.38125;195.9432201;49.2000955;0.065857089
+expe_06_Ant14__outbound_1_Homogeneous dark.csv;Ant14_;1;Homogeneous dark;0.25;207.3133315;43.65324382;0.063683673
+expe_06_Ant14__outbound_2_Homogeneous bright.csv;Ant14_;2;Homogeneous bright;0.2125;235.7623462;58.54819729;0.070339799
+expe_06_Ant14__outbound_3_Heterogeneous.csv;Ant14_;3;Heterogeneous;0.29375;113.4775205;48.90555069;0.081543778
+expe_06_Ant15__outbound_1_Homogeneous bright.csv;Ant15_;1;Homogeneous bright;0.24375;154.2728888;51.99636496;0.054778636
+expe_06_Ant15__outbound_2_Heterogeneous.csv;Ant15_;2;Heterogeneous;0.2375;109.4707509;43.02570655;0.067967211
+expe_06_Ant15__outbound_3_Homogeneous dark.csv;Ant15_;3;Homogeneous dark;0.2875;131.4353128;42.56580615;0.060384344
+expe_06_Ant16__outbound_1_Heterogeneous.csv;Ant16_;1;Heterogeneous;0.325;145.8850123;50.55463126;0.073260703
+expe_06_Ant16__outbound_2_Homogeneous bright.csv;Ant16_;2;Homogeneous bright;0.0375;84.25638412;42.95653293;0.027942483
+expe_06_Ant17__outbound_1_Homogeneous dark.csv;Ant17_;1;Homogeneous dark;0.29375;135.8209496;45.32436543;0.012821292
+expe_06_Ant17__outbound_2_Heterogeneous.csv;Ant17_;2;Heterogeneous;0.10625;89.85190181;44.83981219;0.018136405
+expe_06_Ant17__outbound_3_Homogeneous bright.csv;Ant17_;3;Homogeneous bright;0.3875;108.0077386;41.37244662;0.028941719
+expe_06_Ant18__outbound_1_Homogeneous bright.csv;Ant18_;1;Homogeneous bright;0.24375;312.07241;45.17244439;0.053285789
+expe_06_Ant18__outbound_2_Homogeneous dark.csv;Ant18_;2;Homogeneous dark;0.25;157.9936721;44.90036342;0.057480325
+expe_06_Ant18__outbound_3_Heterogeneous.csv;Ant18_;3;Heterogeneous;0.2;72.93024939;56.12299685;0.060897592
+expe_06_Ant19__outbound_1_Heterogeneous.csv;Ant19_;1;Heterogeneous;0.4875;106.2432914;33.25978152;0.052254182
+expe_06_Ant19__outbound_2_Homogeneous dark.csv;Ant19_;2;Homogeneous dark;0.36875;104.151887;45.46407724;0.101192686
+expe_06_Ant19__outbound_3_Homogeneous bright.csv;Ant19_;3;Homogeneous bright;0.3;251.0643808;55.43392;0.061154564
+expe_06_Ant20__outbound_1_Homogeneous dark.csv;Ant20_;1;Homogeneous dark;0.19375;146.4487252;49.39291037;0.045867027
+expe_06_Ant20__outbound_2_Homogeneous bright.csv;Ant20_;2;Homogeneous bright;0.2875;179.6595517;52.92301645;0.056257931
+expe_06_Ant20__outbound_3_Heterogeneous.csv;Ant20_;3;Heterogeneous;0.2875;104.9407002;46.09000882;0.07181539
+expe_06_Ant21__outbound_1_Heterogeneous.csv;Ant21_;1;Heterogeneous;0.16875;178.8324853;46.43944072;0.07316457
+expe_06_Ant22__outbound_1_Homogeneous dark.csv;Ant22_;1;Homogeneous dark;0.16875;132.7952707;47.98273451;0.087372536
+expe_06_Ant22__outbound_2_Heterogeneous.csv;Ant22_;2;Heterogeneous;0.25625;156.9831583;54.35759379;0.082174525
+expe_06_Ant22__outbound_3_Homogeneous bright.csv;Ant22_;3;Homogeneous bright;0.25;99.64397829;65.96541904;0.074498457
+expe_06_Ant23__outbound_1_Homogeneous bright.csv;Ant23_;1;Homogeneous bright;0.29375;128.8899111;56.4655477;0.079415572
+expe_06_Ant23__outbound_2_Homogeneous dark.csv;Ant23_;2;Homogeneous dark;0.3625;133.7582404;54.27386114;0.07821215
+expe_06_Ant23__outbound_3_Heterogeneous.csv;Ant23_;3;Heterogeneous;0.2875;350.1321587;47.41096526;0.079491759
+expe_06_Ant24__outbound_1_Homogeneous bright.csv;Ant24_;1;Homogeneous bright;0.48125;130.0064788;47.59424692;0.045046571
+expe_06_Ant24__outbound_2_Heterogeneous.csv;Ant24_;2;Heterogeneous;0.30625;143.3750809;31.45442989;0.026988068
+expe_06_Ant24__outbound_3_Homogeneous dark.csv;Ant24_;3;Homogeneous dark;0.1125;137.9520582;43.83511689;0.029521686
+expe_06_Ant25__outbound_1_Heterogeneous.csv;Ant25_;1;Heterogeneous;0.43125;105.2105816;19.93278126;0.042633413
+expe_06_Ant26__outbound_1_Homogeneous dark.csv;Ant26_;1;Homogeneous dark;0.3625;150.9362391;50.87694868;0.075758613
+expe_06_Ant26__outbound_2_Homogeneous bright.csv;Ant26_;2;Homogeneous bright;0.4125;142.585817;51.13199649;0.054451309
+expe_06_Ant26__outbound_3_Heterogeneous.csv;Ant26_;3;Heterogeneous;0.3375;126.2435189;44.12596218;0.088984183
+expe_06_Ant27__outbound_1_Homogeneous bright.csv;Ant27_;1;Homogeneous bright;0.21875;166.4362868;60.48148862;0.061934255
+expe_06_Ant27__outbound_2_Heterogeneous.csv;Ant27_;2;Heterogeneous;0.30625;268.3503717;48.72661245;0.071549581
+expe_06_Ant27__outbound_3_Homogeneous dark.csv;Ant27_;3;Homogeneous dark;0.24375;182.7202157;58.26377933;0.087111823
+expe_06_Ant28__outbound_1_Heterogeneous.csv;Ant28_;1;Heterogeneous;0.25625;234.2538111;51.06067376;0.082710247
+expe_06_Ant28__outbound_2_Homogeneous bright.csv;Ant28_;2;Homogeneous bright;0.08125;86.53267119;29.08856878;0.030979556
+expe_06_Ant28__outbound_3_Homogeneous dark.csv;Ant28_;3;Homogeneous dark;0.375;98.72914482;26.35479705;0.012940725
+expe_06_Ant29__outbound_1_Homogeneous dark.csv;Ant29_;1;Homogeneous dark;0.20625;101.6910655;60.60104002;0.089925603
+expe_06_Ant29__outbound_2_Heterogeneous.csv;Ant29_;2;Heterogeneous;0.36875;156.1687457;46.57587886;0.077902209
+expe_06_Ant29__outbound_3_Homogeneous bright.csv;Ant29_;3;Homogeneous bright;0.31875;267.8403123;63.21353792;0.073969433
+expe_06_Ant30__outbound_1_Homogeneous bright.csv;Ant30_;1;Homogeneous bright;0.36875;148.2811528;56.06045912;0.084826822
+expe_06_Ant31__outbound_1_Heterogeneous.csv;Ant31_;1;Heterogeneous;0.20625;155.3284391;41.89770008;0.059097028
+expe_06_Ant31__outbound_2_Homogeneous dark.csv;Ant31_;2;Homogeneous dark;0.3;142.8062093;65.10673694;0.04257277
+expe_06_Ant31__outbound_3_Homogeneous bright.csv;Ant31_;3;Homogeneous bright;0.36875;190.3938436;55.06897462;0.050887526
+expe_06_Ant32__outbound_1_Homogeneous dark.csv;Ant32_;1;Homogeneous dark;0.21875;153.6434111;63.6544127;0.077090825
+expe_06_Ant32__outbound_2_Homogeneous bright.csv;Ant32_;2;Homogeneous bright;0.24375;185.6332995;64.78269893;0.065119999
+expe_06_Ant32__outbound_3_Heterogeneous.csv;Ant32_;3;Heterogeneous;0.2375;198.660942;49.03655714;0.084760327
+expe_07_Ant01__outbound_1_Inverted_Flat.csv;Ant01_;1;Inverted_Flat;0.20625;79.58265503;43.82147735;0.060595404
+expe_07_Ant01__outbound_2_Dark.csv;Ant01_;2;Dark;0.3;200.1489109;46.05277086;0.066242754
+expe_07_Ant02__outbound_1_Dark.csv;Ant02_;1;Dark;0.225;105.4896297;36.88209855;0.066256321
+expe_07_Ant02__outbound_2_Inverted_Flat.csv;Ant02_;2;Inverted_Flat;0.325;143.7859604;50.81211884;0.056868508
+expe_07_Ant03__outbound_1_Inverted_Flat.csv;Ant03_;1;Inverted_Flat;0.3;147.2492426;39.88583016;0.062622532
+expe_07_Ant03__outbound_2_Dark.csv;Ant03_;2;Dark;0.1875;183.0528223;46.06960027;0.060594975
+expe_07_Ant04__outbound_1_Dark.csv;Ant04_;1;Dark;0.2625;134.0430728;39.56268948;0.038253016
+expe_07_Ant04__outbound_2_Inverted_Flat.csv;Ant04_;2;Inverted_Flat;0.4625;114.4602776;38.60736993;0.030504408
+expe_07_Ant05__outbound_1_Inverted_Flat.csv;Ant05_;1;Inverted_Flat;0.33125;93.34333226;55.12595855;0.06815681
+expe_07_Ant05__outbound_2_Dark.csv;Ant05_;2;Dark;0.2125;296.6756621;47.31677319;0.064656151
+expe_07_Ant06__outbound_1_Dark.csv;Ant06_;1;Dark;0.23125;102.6889126;46.40326804;0.07545984
+expe_07_Ant06__outbound_2_Inverted_Flat.csv;Ant06_;2;Inverted_Flat;0.3625;93.01382968;51.24696856;0.040983216
+expe_07_Ant07__outbound_1_Inverted_Flat.csv;Ant07_;1;Inverted_Flat;0.425;161.302369;65.92143633;0.057840852
+expe_07_Ant08__outbound_1_Dark.csv;Ant08_;1;Dark;0.25625;169.9938571;54.86728871;0.080760124
+expe_07_Ant08__outbound_2_Inverted_Flat.csv;Ant08_;2;Inverted_Flat;0.43125;114.5580907;47.0868827;0.055995717
+expe_07_Ant09__outbound_1_Inverted_Flat.csv;Ant09_;1;Inverted_Flat;0.25;381.3970853;48.69034453;0.060223143
+expe_07_Ant10__outbound_1_Dark.csv;Ant10_;1;Dark;0.36875;200.7094889;49.10701617;0.056176759
+expe_07_Ant10__outbound_2_Inverted_Flat.csv;Ant10_;2;Inverted_Flat;0.2875;129.3184058;38.99606186;0.085727164
+expe_07_Ant11__outbound_1_Inverted_Flat.csv;Ant11_;1;Inverted_Flat;0.28125;110.448501;44.86996511;0.086142347
+expe_07_Ant11__outbound_2_Dark.csv;Ant11_;2;Dark;0.1375;152.7287881;47.4574025;0.092183666
+expe_07_Ant12__outbound_1_Dark.csv;Ant12_;1;Dark;0.33125;156.6155706;54.18140826;0.067524495
+expe_07_Ant12__outbound_2_Inverted_Flat.csv;Ant12_;2;Inverted_Flat;0.26875;143.699371;53.43710562;0.069540024
+expe_07_Ant13__outbound_1_Inverted_Flat.csv;Ant13_;1;Inverted_Flat;0.2375;99.1792414;51.74527192;0.026695767
+expe_07_Ant13__outbound_2_Dark.csv;Ant13_;2;Dark;0.1875;105.6338403;37.13096282;0.019418656
+expe_07_Ant14__outbound_1_Dark.csv;Ant14_;1;Dark;0.40625;121.0589374;39.21092643;0.083778931
+expe_07_Ant14__outbound_2_Inverted_Flat.csv;Ant14_;2;Inverted_Flat;0.275;163.4413959;55.34337788;0.063738118
+expe_07_Ant15__outbound_1_Inverted_Flat.csv;Ant15_;1;Inverted_Flat;0.31875;131.2515256;51.30611573;0.06520032
+expe_07_Ant15__outbound_2_Dark.csv;Ant15_;2;Dark;0.1125;95.45007837;43.12943561;0.052543175
+expe_07_Ant16__outbound_1_Dark.csv;Ant16_;1;Dark;0.31875;167.8237348;44.17661723;0.058950059
+expe_07_Ant16__outbound_2_Inverted_Flat.csv;Ant16_;2;Inverted_Flat;0.31875;105.784421;50.75879659;0.060609116
+expe_07_Ant17__outbound_1_Inverted_Flat.csv;Ant17_;1;Inverted_Flat;0.54375;85.99103065;8.27961586;0.008063048
+expe_07_Ant18__outbound_1_Dark.csv;Ant18_;1;Dark;0.2625;126.6691323;43.02058704;0.065446314
+expe_07_Ant18__outbound_2_Inverted_Flat.csv;Ant18_;2;Inverted_Flat;0.375;124.4974832;41.97644815;0.064808431
+expe_07_Ant19__outbound_1_Inverted_Flat.csv;Ant19_;1;Inverted_Flat;0.14375;166.9929454;45.21840758;0.03473749
+expe_07_Ant20__outbound_1_Dark.csv;Ant20_;1;Dark;0.39375;132.4098532;49.04010596;0.069550893
+expe_07_Ant20__outbound_2_Inverted_Flat.csv;Ant20_;2;Inverted_Flat;0.4;136.0136645;39.10280309;0.063271195
+expe_07_Ant21__outbound_1_Inverted_Flat.csv;Ant21_;1;Inverted_Flat;0.4;164.817428;60.94826769;0.067636515
+expe_07_Ant21__outbound_2_Dark.csv;Ant21_;2;Dark;0.4;132.7100364;57.13217239;0.055944046
+expe_07_Ant22__outbound_1_Dark.csv;Ant22_;1;Dark;0.48125;134.8758351;45.85307578;0.060175995
+expe_07_Ant22__outbound_2_Inverted_Flat.csv;Ant22_;2;Inverted_Flat;0.225;218.6563801;64.48222377;0.090476746
+expe_07_Ant23__outbound_1_Inverted_Flat.csv;Ant23_;1;Inverted_Flat;0.2125;165.4608337;46.79228247;0.073239489
+expe_07_Ant23__outbound_2_Dark.csv;Ant23_;2;Dark;0.25625;103.7927484;40.50581696;0.049704267
+expe_07_Ant24__outbound_1_Dark.csv;Ant24_;1;Dark;0.25;159.8991403;42.10253706;0.044964976
+expe_07_Ant24__outbound_2_Inverted_Flat.csv;Ant24_;2;Inverted_Flat;0.18125;152.2415658;46.92314348;0.051170377
+expe_07_Ant25__outbound_1_Inverted_Flat.csv;Ant25_;1;Inverted_Flat;0.3125;103.4126979;37.11377389;0.093710613
+expe_07_Ant25__outbound_2_Dark.csv;Ant25_;2;Dark;0.33125;116.8658645;49.34293146;0.068091613
+expe_07_Ant26__outbound_1_Dark.csv;Ant26_;1;Dark;0.24375;145.1459839;44.74981137;0.053969296
+expe_07_Ant26__outbound_2_Inverted_Flat.csv;Ant26_;2;Inverted_Flat;0.2375;134.5204287;44.29329389;0.028846385
+expe_07_Ant27__outbound_1_Inverted_Flat.csv;Ant27_;1;Inverted_Flat;0.50625;102.1462411;43.31349283;0.040179335
+expe_07_Ant27__outbound_2_Dark.csv;Ant27_;2;Dark;0.15;138.7098741;49.66305735;0.048065018
+expe_07_Ant28__outbound_1_Dark.csv;Ant28_;1;Dark;0.25;143.6677077;46.56722674;0.082272726
+expe_07_Ant28__outbound_2_Inverted_Flat.csv;Ant28_;2;Inverted_Flat;0.1625;158.9755158;51.44860242;0.06847162
+expe_07_Ant29__outbound_1_Inverted_Flat.csv;Ant29_;1;Inverted_Flat;0.45;128.9962923;49.62884483;0.052114358
+expe_07_Ant29__outbound_2_Dark.csv;Ant29_;2;Dark;0.325;144.1877386;50.91595825;0.030535987
+expe_07_Ant30__outbound_1_Dark.csv;Ant30_;1;Dark;0.15;114.3356873;44.03519046;0.046227037
+expe_07_Ant30__outbound_2_Inverted_Flat.csv;Ant30_;2;Inverted_Flat;0.35;123.9929905;48.45682594;0.046471956
+expe_07_Ant31__outbound_1_Inverted_Flat.csv;Ant31_;1;Inverted_Flat;0.13125;96.29789671;54.02030172;0.06702941
+expe_07_Ant31__outbound_2_Dark.csv;Ant31_;2;Dark;0.1;149.1877733;40.86044399;0.065635639
+expe_07_Ant32__outbound_1_Dark.csv;Ant32_;1;Dark;0.56875;86.62766133;49.06380695;0.042687956
+expe_07_Ant32__outbound_2_Inverted_Flat.csv;Ant32_;2;Inverted_Flat;0.16875;132.207092;48.45805944;0.036914551
+expe_07_Ant33__outbound_1_Inverted_Flat.csv;Ant33_;1;Inverted_Flat;0.3875;115.9797555;47.49774045;0.063243444
+expe_07_Ant33__outbound_2_Dark.csv;Ant33_;2;Dark;0.44375;169.7102914;46.31646763;0.0593485
+expe_07_Ant34__outbound_1_Dark.csv;Ant34_;1;Dark;0.1875;117.9013215;36.99949334;0.057888687
+expe_07_Ant35__outbound_1_Inverted_Flat.csv;Ant35_;1;Inverted_Flat;0.15625;102.7689799;47.79022137;0.063764663
+expe_07_Ant35__outbound_2_Dark.csv;Ant35_;2;Dark;0.25;151.6365876;42.04759359;0.051942338
+expe_07_Ant36__outbound_1_Dark.csv;Ant36_;1;Dark;0.24375;188.5536209;54.29320847;0.057016161
+expe_07_Ant36__outbound_2_Inverted_Flat.csv;Ant36_;2;Inverted_Flat;0.20625;171.7753033;52.77441376;0.058241513
+expe_07_Ant37__outbound_1_Inverted_Flat.csv;Ant37_;1;Inverted_Flat;0.33125;174.5563931;48.86545104;0.044513492
+expe_07_Ant37__outbound_2_Dark.csv;Ant37_;2;Dark;0.25;155.0530367;44.41432462;0.038173703
+expe_07_Ant38__outbound_1_Dark.csv;Ant38_;1;Dark;0.2;110.8743033;51.80602126;0.063432759
+expe_07_Ant38__outbound_2_Inverted_Flat.csv;Ant38_;2;Inverted_Flat;0.26875;210.7612896;60.11974811;0.069932476
+expe_07_Ant39__outbound_1_Inverted_Flat.csv;Ant39_;1;Inverted_Flat;0.225;156.06787;47.17589205;0.063019171
+expe_07_Ant39__outbound_2_Dark.csv;Ant39_;2;Dark;0.125;243.2646227;36.76485992;0.055252564
+expe_07_Ant40__outbound_1_Dark.csv;Ant40_;1;Dark;0.13125;103.547544;52.49214165;0.06465828
+expe_07_Ant40__outbound_2_Inverted_Flat.csv;Ant40_;2;Inverted_Flat;0.25;169.603527;54.5080337;0.059690665
+expe_07_Ant41__outbound_1_Inverted_Flat.csv;Ant41_;1;Inverted_Flat;0.25;112.4336869;47.95055815;0.065842325
+expe_07_Ant42__outbound_1_Dark.csv;Ant42_;1;Dark;0.2375;121.6186104;45.49156303;0.065763318
